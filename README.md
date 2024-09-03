@@ -103,10 +103,6 @@ To use this dataset:
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the analysis**: 
-   ```bash
-   python drug_review_analysis.py
-   ```
 
 ## Important Notes
 
